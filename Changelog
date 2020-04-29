@@ -1,0 +1,17 @@
+Version 0.8a:
+• Datenbank verbindung zu MySql PDO geändert
+• Struktur auf PDO OOP umgeschrieben
+• Bootstrap 4.4 als Framework
+• Menü erstellt
+• Design angepasst
+
+Version 0.9a:
+• Datenbanken (Kunden, Aufträge & Rechnungen) erstellt
+• Kunden, Aufträge & Rechnungen als Seite programmiert.
+• Bug Fix #001
+
+Version 1.0a:
+• Login eingebaut unter md5 verschlüsselung
+• Icons und Bilder verändert und eingebaut
+• Abmelden-Button eingefügt
+• Abfrage ob eingeloggt oder nicht
