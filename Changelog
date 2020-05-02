@@ -10,9 +10,13 @@ Version 0.9a:
 • Kunden, Aufträge & Rechnungen als Seite programmiert.
 • Bug Fix #001
 
-Version 1.0a:
+Version 0.9.1a:
 • Login eingebaut unter md5 verschlüsselung
 • Icons und Bilder verändert und eingebaut
 • Abmelden-Button eingefügt
 • Abfrage ob eingeloggt oder nicht
 • Systembenachrichtigung per Datenbank
+
+Version 0.9.2a:
+• Update button für Aufträge eingebaut
+• Design angepasst
